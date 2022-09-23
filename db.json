@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Banty",
+      "LastName": "M",
+      "email": "bb123@yahoo.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Gaurav",
+      "LastName": "Misgra",
+      "email": "gaurm@gmail.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Satyem",
+      "LastName": "Jain",
+      "email": "srtyam@gmail.com"
+    },
+    {
+      "id": 6,
+      "firstName": "samast",
+      "LastName": "kr",
+      "email": "smsat@gmail.com"
+    },
+    {
+      "id": 7,
+      "firstName": "Manish",
+      "LastName": "Jeo",
+      "email": "mansh@yahoo.com"
+    },
+    {
+      "id": 8,
+      "firstName": "Nishany",
+      "LastName": "JHA",
+      "email": "nshtuj@gmail.com"
+    },
+    {
+      "id": 9,
+      "firstName": "Vikash",
+      "LastName": "Mishra",
+      "email": "vkshm@gmail.com"
+    },
+    {
+      "id": 10,
+      "firstName": "Laxmi",
+      "LastName": "Bai",
+      "email": "lxmibai@gamil.com"
+    },
+    {
+      "id": 11,
+      "firstName": "Anand",
+      "LastName": "Jha",
+      "email": "anand@gmail.com"
+    }
+  ]
+}
